@@ -1,7 +1,7 @@
-Daily use
-=========
+Tägliche Nutzung
+================
 
-This section of the documentation details common tasks users may want to do on their Ubuntu Touch device.
+Dieser Abschnitt der Dokumentation behandelt gängige Aufgaben, die Nutzerinnen und Nutzer mit ihren Ubuntu Touch-Geräten erledigen wollen.
 
 .. toctree::
     :maxdepth: 1
